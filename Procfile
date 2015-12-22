@@ -1,1 +1,1 @@
-web: hubot -a slack -n hubot -r src
+web: bin/hubot --adapter slack
